@@ -1,0 +1,222 @@
+{
+    "data": [
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "Flat End Mill, Single Flute",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 20,
+                "LCF": 13,
+                "NOF": 1,
+                "OAL": 38,
+                "SFDM": 3.175,
+                "shoulder-length": 16
+            },
+            "guid": "420e4486-1423-45c4-b8be-4dbf99add41d",
+            "holder": {
+                "description": "ER11 Holder",
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 13,
+                        "lower-diameter": 19,
+                        "upper-diameter": 19
+                    },
+                    {
+                        "height": 10,
+                        "lower-diameter": 14,
+                        "upper-diameter": 14
+                    },
+                    {
+                        "height": 5,
+                        "lower-diameter": 16,
+                        "upper-diameter": 16
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "H1",
+            "product-link": "https://shop.snapmaker.com/products/cnc-bits-5-bits",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.0125,
+                        "f_z": 0.033333333333333,
+                        "guid": "d6a393e6-0ea6-45c0-a1e1-3fcf87694b3d",
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "default",
+                        "stepdown": 0.5,
+                        "tool-coolant": "disabled",
+                        "use-stepdown": true,
+                        "use-stepover": false,
+                        "v_c": 119.69468010177113,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "Snapmaker"
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "Flat End Mill, Single Flute",
+            "geometry": {
+                "CSP": false,
+                "DC": 1.5,
+                "HAND": true,
+                "LB": 20,
+                "LCF": 12,
+                "NOF": 1,
+                "OAL": 38,
+                "SFDM": 3.175,
+                "shoulder-length": 15
+            },
+            "guid": "d4f4026d-792c-440c-a7b6-bd1685734366",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "guid": "e800051b-e2d6-4699-a2b6-dad6466a0a0c",
+                "last_modified": 1485790626152,
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "H2",
+            "product-link": "https://shop.snapmaker.com/products/cnc-bits-5-bits",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "f_n": 0.0125,
+                        "f_z": 0.033333333333333,
+                        "guid": "7d2656ba-f27f-43de-be09-411fe3acbbec",
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "default",
+                        "tool-coolant": "disabled",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 56.54866776461628,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "Snapmaker"
+        }
+    ],
+    "version": 1
+}
